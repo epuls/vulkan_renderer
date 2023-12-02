@@ -14,7 +14,7 @@ list(APPEND CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
         #"C:/Libraries/glm-0.9.9.8/glm"
 #)
 
-set(VULKAN_SDK_PATH C:/Libraries/vulkantutorial/thirdpartyVulkanSDK/1.3.268.0)
+set(VULKAN_SDK_PATH /thirdpartyVulkanSDK/1.3.268.0)
 set(Vulkan_INCLUDE_DIRS "${VULKAN_SDK_PATH}/Include")
 set(Vulkan_LIBRARIES "${VULKAN_SDK_PATH}/Lib")
 target_link_libraries(${PROJECT_NAME} "$ENV{VULKAN_SDK}/Lib/vulkan-1.lib")
@@ -24,7 +24,7 @@ target_include_directories(${PROJECT_NAME} PUBLIC ${Vulkan_INCLUDE_DIR})
 target_link_libraries(${PROJECT_NAME} Vulkan::Vulkan)
 
 #find_package(PkgConfig REQUIRED MODULE)
-set(GLM_DIR C:/Libraries/vulkantutorial/thirdparty/glm/cmake/glm)
+set(GLM_DIR ./thirdparty/glm/cmake/glm)
 find_package(GLM REQUIRED)
 include_directories(${GLM_INCLUDE_DIRS})
 target_link_libraries(${PROJECT_NAME} ${GLM_LIBRARY_DIRS})
