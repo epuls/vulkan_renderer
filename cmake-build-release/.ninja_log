@@ -1,0 +1,21 @@
+# ninja log v5
+1	412	7231007642642782	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	2e33978a539f037c
+5	629	7231007644814666	thirdparty/glfw/src/CMakeFiles/glfw.dir/init.c.obj	4c93cbe033079fcf
+18	631	7231007644834658	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	880ba1afc3297540
+36	631	7231007644844676	thirdparty/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	cee8f3d4800fe1dd
+10	654	7231007645074656	thirdparty/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	86dda5ab44948588
+16	695	7231007645476189	thirdparty/glfw/src/CMakeFiles/glfw.dir/window.c.obj	c4aa97c45a06b1b5
+30	700	7231007645526189	thirdparty/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	5c4d4fb30643c8ae
+22	722	7231007645741621	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	cd1d67ccdad5b2d4
+20	723	7231007645741621	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	6cb48191846c5b22
+33	739	7231007645930610	thirdparty/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	5e6a0e0b1321c00a
+24	754	7231007646084227	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	721d4ebdc6180717
+3	757	7231007646114236	thirdparty/glfw/src/CMakeFiles/glfw.dir/context.c.obj	7a0da0d612fd40af
+7	770	7231007646244328	thirdparty/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	ad66e2d9eb02d1ef
+13	791	7231007646455012	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	f31c203fd30d678f
+11	793	7231007646474926	thirdparty/glfw/src/CMakeFiles/glfw.dir/input.c.obj	1c272dcff15b905e
+28	1005	7231007648596850	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	a7d2e417424e1a21
+1005	1044	7231007648997711	thirdparty/glfw/src/libglfw3.a	545db1b385679b42
+1044	1110	7231007649627971	vulkantutorial.exe	adc7beeaa649c498
+2	286	7231009424655926	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	2e33978a539f037c
+287	353	7231009425286140	vulkantutorial.exe	adc7beeaa649c498

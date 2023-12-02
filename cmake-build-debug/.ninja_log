@@ -1,0 +1,27 @@
+# ninja log v5
+2	234	7231007578998631	build.ninja	98923f41caaa8e40
+17	628	7230635005166739	thirdparty/glfw/src/CMakeFiles/glfw.dir/context.c.obj	138a602ef995e876
+2	361	7229146943841041	CMakeFiles/vulkantutorial.dir/main.cpp.obj	f08bda088c236229
+304	389	7231007420379367	vulkantutorial.exe	74bb7bbd75507fb4
+11	563	7230635004510415	thirdparty/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	9763a7d2ead4ef5
+12	651	7230635005417553	thirdparty/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	c8f25de0aa0eb5c9
+19	645	7230635005327122	thirdparty/glfw/src/CMakeFiles/glfw.dir/input.c.obj	f8d9d0d87ef61e0e
+2	609	7230635004985574	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	2e758020e8a5bf45
+28	672	7230635005633142	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	20ecd843794f6103
+5	619	7230635005086740	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	656798fd28ef1ff8
+9	624	7230635005136744	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	8822b2590dc82176
+15	639	7230635005287282	thirdparty/glfw/src/CMakeFiles/glfw.dir/init.c.obj	d7a439b8aa6773d1
+4	649	7230635005387658	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	2f2c2302d7c3e695
+0	656	7230635005457542	thirdparty/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	f059fef212f35960
+7	667	7230635005577940	thirdparty/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	303fe85a773cf260
+21	703	7230635005933912	thirdparty/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	a2f1439e86bfe60b
+3	304	7231007419557881	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	fe6f56b2c2b042e3
+25	718	7230635006073767	thirdparty/glfw/src/CMakeFiles/glfw.dir/window.c.obj	53a38922cbcd6bf5
+23	730	7230635006203912	thirdparty/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	20c96d52228bd953
+730	783	7230635006734239	thirdparty/glfw/src/libglfw3.a	545db1b385679b42
+2	314	7231009358495865	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	fe6f56b2c2b042e3
+315	409	7231009359421106	vulkantutorial.exe	74bb7bbd75507fb4
+2	313	7231015945320970	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	fe6f56b2c2b042e3
+314	401	7231015946170975	vulkantutorial.exe	74bb7bbd75507fb4
+2	316	7231018026370555	CMakeFiles/vulkantutorial.dir/src/main.cpp.obj	fe6f56b2c2b042e3
+316	402	7231018027200657	vulkantutorial.exe	74bb7bbd75507fb4
